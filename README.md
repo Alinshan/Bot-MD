@@ -10,7 +10,7 @@
 
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Auth-Session-Generator?v=1)
+[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@ALINSHAN/Bot-Multi-Auth-Session-Generator))
 
 ## ` BUILDPACKS`
 
